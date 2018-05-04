@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_card_travel_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/money"
+        android:icon="@drawable/ic_card_giftcard_black_24dp"
+        android:title="Money" />
+
+    <item
+        android:id="@+id/android"
+        android:icon="@drawable/ic_card_membership_black_24dp"
+        android:title="Android" />
+
+    <item
+        android:id="@+id/test4"
+        android:icon="@drawable/ic_accessible_black_24dp"
+        android:title="Test4" />
+
+</menu>
